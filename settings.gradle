@@ -1,0 +1,2 @@
+rootProject.name='SteinPapierSchere'
+include ':app'

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SteinPapierSchere</string>
+    <string name="draw">Draw!</string>
+    <string name="player1_wins">Player1 wins!</string>
+    <string name="player2_wins">Player2 wins!</string>
+
+    <string name="create_room">CREATE ROOM</string>
+    <string name="log_in">LOG IN</string>
+</resources>

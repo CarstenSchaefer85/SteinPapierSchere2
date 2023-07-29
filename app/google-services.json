@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "220446397649",
+    "firebase_url": "https://steinpapierschere20201101.firebaseio.com",
+    "project_id": "steinpapierschere20201101",
+    "storage_bucket": "steinpapierschere20201101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220446397649:android:8e68f85aab6ad4a7d0e1f0",
+        "android_client_info": {
+          "package_name": "com.pinguine.steinpapierschere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220446397649-j6u3toqd9sskaplefeauhnhuncf1bulf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIKja5FEihHkICSF90NSGC_-PF1zqNm34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220446397649-j6u3toqd9sskaplefeauhnhuncf1bulf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
